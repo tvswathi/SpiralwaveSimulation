@@ -1,0 +1,4 @@
+﻿  PatGSView.cpp
+F:\VC++\VC+\PatGS\PatGSView.cpp(205,19): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+F:\VC++\VC+\PatGS\PatGSView.cpp(206,19): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+  PatGS.vcxproj -> F:\VC++\VC+\PatGS\Debug\PatGS.exe
